@@ -2,7 +2,7 @@
 This project aims to segment customers based on their attributes using K-means clustering. The dataset used is the Mall Customers dataset, which includes information about customers' age, gender, annual income, and spending score.
 # Dataset Overview
 Dataset Source: Mall Customers Dataset
-ttributes:
+attributes:
       Age: Customer's age.
       Gender: Customer's gender.
       Annual Income (k$): Customer's annual income in thousands of dollars.
