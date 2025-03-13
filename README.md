@@ -1,13 +1,9 @@
 # Customer Segmentation Analysis
 This project aims to segment customers based on their attributes using K-means clustering. The dataset used is the Mall Customers dataset, which includes information about customers' age, gender, annual income, and spending score.
 # Dataset Overview
-Dataset Source: Mall Customers Dataset
-attributes:
-      Age: Customer's age.
-      Gender: Customer's gender.
-      Annual Income (k$): Customer's annual income in thousands of dollars.
-      Spending Score (1-100): Score assigned based on customer behavior and purchasing data.
+The dataset used in this project is the Mall Customer Segmentation Data, which contains the following columns:
 
+CustomerID: Unique ID assigned to each customer      Gender: Gender of the customer    Age: Age of the customer Annual Income (k$): Annual income of the customer in thousands of dollars      Spending Score (1-100): Spending score assigned to the customer based on their behavior and spending nature
 # Installation
 
 To run this project, you need to have Python and the following libraries installed:
